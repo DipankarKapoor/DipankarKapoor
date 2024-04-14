@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DipankarKapoor
 - 👀 I’m interested in creating experiences for the web !!
-- 🌱 I’m currently learning MERN Stack.
+- 🌱 I’m currently working with MERN Stack.
 - 💞️ I’m looking to collaborate on Front-End/Web Development Projects
 
 <!---
